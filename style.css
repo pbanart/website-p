@@ -21,8 +21,19 @@ background: #222;
 margin: 0px auto;
 }
 div#menu {text-align: center; white-space: nowrap; }
-div#menu a {font-weight: bold; text-decoration: none; padding: .5em 1em}
+div#menu a {font-size: 16px; font-weight: bold; text-decoration: none; padding: 10em 1em}
+div#content table.links th {
+    text-align: right; font-size: 110%; vertical-align: top; padding: .5em .8em
+}
 
+div#content table.links td {
+    padding: .5em .8em; text-decoration: none
+}
+
+div#content table.links ul {list-style: none; padding: 0px; margin: 0px}
+
+
+div#content table#contact td a {text-decoration: none}
 
 .header {
 padding-top: 20px;
@@ -80,8 +91,8 @@ background-color: #FAF391;
 }
 
 .content {
-padding: 10px 10px 10px 0;
-float: right;
+padding: 10px 10px 10px 600px;
+float: center;
 width: 540px;
 }
 .content h2 {
