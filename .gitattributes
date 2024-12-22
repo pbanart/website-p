@@ -1,1 +1,2 @@
 strings filter=lfs diff=lfs merge=lfs -text
+sick filter=lfs diff=lfs merge=lfs -text
