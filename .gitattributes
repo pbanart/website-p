@@ -1,3 +1,4 @@
 strings filter=lfs diff=lfs merge=lfs -text
 sick filter=lfs diff=lfs merge=lfs -text
 Phoenix filter=lfs diff=lfs merge=lfs -text
+mind filter=lfs diff=lfs merge=lfs -text
