@@ -6,3 +6,4 @@ pic_4.jpg.jpg filter=lfs diff=lfs merge=lfs -text
 pic_5.jpg filter=lfs diff=lfs merge=lfs -text
 pic_6.jpg filter=lfs diff=lfs merge=lfs -text
 pic_0.jpg filter=lfs diff=lfs merge=lfs -text
+pic_4.jpg filter=lfs diff=lfs merge=lfs -text
