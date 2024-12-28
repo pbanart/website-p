@@ -7,3 +7,5 @@ pic_5.jpg filter=lfs diff=lfs merge=lfs -text
 pic_6.jpg filter=lfs diff=lfs merge=lfs -text
 pic_0.jpg filter=lfs diff=lfs merge=lfs -text
 pic_4.jpg filter=lfs diff=lfs merge=lfs -text
+Blender[[:space:]]animation[[:space:]]edited.mp4 filter=lfs diff=lfs merge=lfs -text
+animation.mp4 filter=lfs diff=lfs merge=lfs -text
