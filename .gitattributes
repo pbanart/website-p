@@ -4,3 +4,4 @@ Phoenix filter=lfs diff=lfs merge=lfs -text
 mind filter=lfs diff=lfs merge=lfs -text
 prev filter=lfs diff=lfs merge=lfs -text
 Unholy[[:space:]]mothers filter=lfs diff=lfs merge=lfs -text
+Extended_drawing filter=lfs diff=lfs merge=lfs -text
