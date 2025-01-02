@@ -12,3 +12,6 @@ pic_6.NEF filter=lfs diff=lfs merge=lfs -text
 pic_0.NEF filter=lfs diff=lfs merge=lfs -text
 pic_1.NEF filter=lfs diff=lfs merge=lfs -text
 pic_13.jpg filter=lfs diff=lfs merge=lfs -text
+pic_14.JPG filter=lfs diff=lfs merge=lfs -text
+pic_15.JPG filter=lfs diff=lfs merge=lfs -text
+pic_16.JPG filter=lfs diff=lfs merge=lfs -text
