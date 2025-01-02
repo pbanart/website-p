@@ -1,0 +1,13 @@
+pic_7.NEF filter=lfs diff=lfs merge=lfs -text
+pic_8.NEF filter=lfs diff=lfs merge=lfs -text
+pic_9.NEF filter=lfs diff=lfs merge=lfs -text
+pic_11.NEF filter=lfs diff=lfs merge=lfs -text
+pic_4.NEF filter=lfs diff=lfs merge=lfs -text
+pic_10.NEF filter=lfs diff=lfs merge=lfs -text
+pic_12.NEF filter=lfs diff=lfs merge=lfs -text
+pic_2.NEF filter=lfs diff=lfs merge=lfs -text
+pic_3.NEF filter=lfs diff=lfs merge=lfs -text
+pic_5.NEF filter=lfs diff=lfs merge=lfs -text
+pic_6.NEF filter=lfs diff=lfs merge=lfs -text
+pic_0.NEF filter=lfs diff=lfs merge=lfs -text
+pic_1.NEF filter=lfs diff=lfs merge=lfs -text
