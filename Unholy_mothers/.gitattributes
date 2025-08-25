@@ -15,3 +15,17 @@ pic_13.jpg filter=lfs diff=lfs merge=lfs -text
 pic_14.JPG filter=lfs diff=lfs merge=lfs -text
 pic_15.JPG filter=lfs diff=lfs merge=lfs -text
 pic_16.JPG filter=lfs diff=lfs merge=lfs -text
+pic_5.jpg filter=lfs diff=lfs merge=lfs -text
+pic_7.jpg filter=lfs diff=lfs merge=lfs -text
+pic_9.jpg filter=lfs diff=lfs merge=lfs -text
+pic_1.jpg filter=lfs diff=lfs merge=lfs -text
+pic_10.jpg filter=lfs diff=lfs merge=lfs -text
+pic_3.jpg filter=lfs diff=lfs merge=lfs -text
+pic_6.jpg filter=lfs diff=lfs merge=lfs -text
+pic_11.jpg filter=lfs diff=lfs merge=lfs -text
+pic_4.jpg filter=lfs diff=lfs merge=lfs -text
+pic_0.jpg filter=lfs diff=lfs merge=lfs -text
+pic_12.jpg filter=lfs diff=lfs merge=lfs -text
+pic_17.jpg filter=lfs diff=lfs merge=lfs -text
+pic_2.jpg filter=lfs diff=lfs merge=lfs -text
+pic_8.jpg filter=lfs diff=lfs merge=lfs -text
